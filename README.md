@@ -62,7 +62,7 @@ To make quality education **accessible, engaging, and rewarding** for every lear
 ### 🧠 System Flow Diagram
 Below is the system flowchart representing how users interact with GIREAPP:
 
-![GIREAPP System Flow](assets/GIREAPP%20Flow%20Chat%20(1).jpg)
+![GIREAPP System Flow](GIREAPP%20Flow%20Chat%20(1).jpg)
 
 
 ---
